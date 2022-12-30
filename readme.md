@@ -1,6 +1,6 @@
 <div align="center">
   
-# Desafio prático do treinamento de testes automatizados pela Minsait
+# Desafio prático - treinamento de testes manuais e automatizados pela Minsait
   
 </div>
 
