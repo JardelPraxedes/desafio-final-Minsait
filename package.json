@@ -1,0 +1,23 @@
+{
+  "name": "desafio_final_minsait",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JardelPraxedes/desafio-final-Minsait.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JardelPraxedes/desafio-final-Minsait/issues"
+  },
+  "homepage": "https://github.com/JardelPraxedes/desafio-final-Minsait#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
