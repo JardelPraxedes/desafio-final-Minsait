@@ -18,13 +18,13 @@
 
 ### Ilustrações da página  
 
-  <img align="center" height="300" width="800" src="/imagem1.png">
+  <img align="center" height="300" width="700" src="/imagem1.png">
 </div>
 
 <div align="center"><br>
 
 
-  <img align="center" height="300" width="800" src="/image2.png">
+  <img align="center" height="300" width="700" src="/imagem2.png">
 </div>
   
 </div>
