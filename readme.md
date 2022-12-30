@@ -8,7 +8,7 @@
 
 ### Objetivo inicial foi a criação de casos de testes na página https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
   
-### Foi utilizado o Cypress que é um framework onde pode ser criado casos de testes para desenvolvimentos web.
+### Foi utilizado o Cypress que é um framework para ambiente de testes.
 
  <img align="center" height="70" width="200" src="/logo-cypress.png">
 
